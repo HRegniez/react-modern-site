@@ -26,13 +26,15 @@ decided to take on this challenge in the idea of getting used to the REACT.js sy
 ## My process
 
 - Create-React-App
-- Restructure my 'src' folder to fit my design
+- Restructure my 'src' folder to fit the design
 - install React icons
+- set up global styles
 
 ### Built with
 
 - CSS custom properties
   - BEM Method
+  - CSS variables
 - [React](https://reactjs.org/) - JS library
   - React icons
 
@@ -56,6 +58,10 @@ class Question extends React.Component {
 ```
 
 https://react-icons.github.io/react-icons
+
+- AngryTools: to make gradients
+
+https://angrytools.com/gradient/
 
 ```html
 <h1>Some HTML code I'm proud of</h1>
@@ -81,8 +87,8 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- https://angrytools.com/gradient/ - To create a gradient
+- https://animista.net/play/basic/shadow-inset - To animate site
 
 ## Author
 
